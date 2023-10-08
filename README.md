@@ -1,0 +1,1 @@
+# This is a Ed-Tech Platform Application Which is built Using HTML and CSS
